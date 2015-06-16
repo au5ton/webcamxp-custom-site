@@ -34,4 +34,11 @@
         width: 500px!important;
         height: 375px!important;
     }*/
+    .wxpcamdiv {
+        width: 97.5%!important;
+    }
+    .wxpcamdiv .webcam {
+        width: 1280px!important;
+        height: 800px!important;
+    }
 }
