@@ -1,0 +1,37 @@
+@media (min-width: 1330px) {
+	#container {
+		width: 1330px!important;
+	}
+	#intro {
+		width: 100%!important;
+	}
+	#pageHeader {
+		width: 100%!important;
+        background-image: linear-gradient(#22def1,#0565a2)!important;
+	}
+    .wxptopnav {
+        width: 100%!important;
+    }
+    /*.wxpmenu {
+        width: 65%!important;
+    }
+    .wxplogin {
+        width: 35%!important;
+    }*/
+    .wxpcontainer {
+        width: 100%!important;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 0!important;
+    }
+    .multicamcontainer {
+        width: 97.5%!important;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 10px!important;
+    }
+    /*.wxpminicontainer {
+        width: 500px!important;
+        height: 375px!important;
+    }*/
+}
